@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">Recycler Buddies</string>
+    
+    <!--Buddy Names -->
+    <string name="homer">Homer Simpson</string>
+    <string name="bart">Bart Simpson</string>
+    <string name="spongebob">Sponge Bob</string>
+    <string name="bambie">Bambie</string>
+    <string name="goofy">Goofy</string>
+    <string name="jerry">Jerry</string>
+    <string name="mickey">Mickey</string>
+    <string name="simba">Simba</string>
+    <string name="tom">Tom</string>
+    <string name="donald">Donald Duck</string>
+
+    <!--Buddy Descriptions -->
+    <string name="homer_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
+    <string name="bart_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
+    <string name="bambie_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
+    <string name="goofy_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
+    <string name="jerry_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
+    <string name="mickey_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
+    <string name="simba_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
+    <string name="tom_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
+    <string name="donald_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
+    <string name="spongebob_desc"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, velit? Non reiciendis, facilis </string>
 </resources>
