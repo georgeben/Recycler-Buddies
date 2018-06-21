@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="buddy_names">
+        <item>@string/bambie</item>
+        <item>@string/bart</item>
+        <item>@string/donald</item>
+        <item>@string/goofy</item>
+        <item>@string/homer</item>
+        <item>@string/jerry</item>
+        <item>@string/mickey</item>
+        <item>@string/simba</item>
+        <item>@string/tom</item>
+    </array>
+
+    <array name="buddy_desc">
+        <item>@string/bambie_desc</item>
+        <item>@string/bambie_desc</item>
+        <item>@string/donald_desc</item>
+        <item>@string/goofy_desc</item>
+        <item>@string/homer_desc</item>
+        <item>@string/jerry_desc</item>
+        <item>@string/mickey_desc</item>
+        <item>@string/simba_desc</item>
+        <item>@string/tom_desc</item>
+    </array>
+
+    <array name="buddy_img">
+        <item>R.drawable.bambie</item>
+        <item>@drawable/bart</item>
+        <item>@drawable/donald</item>
+        <item>@drawable/goofy</item>
+        <item>@drawable/homer</item>
+        <item>@drawable/jerry</item>
+        <item>@drawable/micky</item>
+        <item>@drawable/simba</item>
+        <item>@drawable/tom</item>
+    </array>
+
+</resources>
