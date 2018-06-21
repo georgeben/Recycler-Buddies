@@ -12,6 +12,7 @@ public class Buddy {
     public Buddy(String buddy_name, String buddy_description, int img_res) {
         this.buddy_name = buddy_name;
         this.buddy_description = buddy_description;
+        this.img_res = img_res;
     }
 
     public String getBuddy_name() {
