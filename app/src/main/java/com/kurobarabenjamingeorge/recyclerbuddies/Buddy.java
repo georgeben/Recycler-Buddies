@@ -7,8 +7,9 @@ package com.kurobarabenjamingeorge.recyclerbuddies;
 public class Buddy {
     private String buddy_name;
     private String buddy_description;
+    private int img_res;
 
-    public Buddy(String buddy_name, String buddy_description) {
+    public Buddy(String buddy_name, String buddy_description, int img_res) {
         this.buddy_name = buddy_name;
         this.buddy_description = buddy_description;
     }
@@ -19,5 +20,9 @@ public class Buddy {
 
     public String getBuddy_description() {
         return buddy_description;
+    }
+
+    public int getImg_res() {
+        return img_res;
     }
 }
